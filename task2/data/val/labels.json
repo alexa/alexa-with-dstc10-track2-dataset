@@ -1,0 +1,1886 @@
+[
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110053,
+        "doc_id": 14
+      }
+    ],
+    "response": "that's a great question looking into that i see the check in start check in time starts at three"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120496,
+        "doc_id": 18
+      }
+    ],
+    "response": "there is actually there is bike parking available here"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120412,
+        "doc_id": 17
+      }
+    ],
+    "response": "sure let me go ahead and search that. all right it says that this location accepts all major credit cards"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120384,
+        "doc_id": 12
+      }
+    ],
+    "response": "sure let me go and check if that's listed anywhere. ok so unfortunately it says that it's not good for groups at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110134,
+        "doc_id": 9
+      }
+    ],
+    "response": "they do accept all major credit cards including master card"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120053,
+        "doc_id": 10
+      }
+    ],
+    "response": "yes they do"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120510,
+        "doc_id": 4
+      }
+    ],
+    "response": "i can take a look at see you know what it looks like they do offer take out yeah"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120130,
+        "doc_id": 12
+      }
+    ],
+    "response": "let me see if they do unfortunately they do not offer delivery"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120325,
+        "doc_id": 19
+      }
+    ],
+    "response": "sure let me go ahead and search that all right it's listing that they have an average noise level at this location"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110090,
+        "doc_id": 6
+      }
+    ],
+    "response": "sure let me go and check that for you ok so it does say that they offer daily house keeping at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100150,
+        "doc_id": 2
+      }
+    ],
+    "response": "yeah let me go ahead and search that up for you. all right so this location does offer a military discount"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100147,
+        "doc_id": 2
+      }
+    ],
+    "response": "that's a great question it does not look like they accept apple pay"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120448,
+        "doc_id": 2
+      }
+    ],
+    "response": "let me check on that for you. yes it does look like they have vegetarian options"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100187,
+        "doc_id": 1
+      }
+    ],
+    "response": "let me check on that for you. bike parking is available here"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110111,
+        "doc_id": 2
+      }
+    ],
+    "response": "it's showing here that their wi-fi is free yes"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120413,
+        "doc_id": 15
+      }
+    ],
+    "response": "it's an average noise level"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120128,
+        "doc_id": 6
+      }
+    ],
+    "response": "ok let's see. all right it says that their ambience is romantic and classy there"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110018,
+        "doc_id": 7
+      }
+    ],
+    "response": "yes i'm showing here actually on this site it shows they are wheelchair accessible"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120274,
+        "doc_id": 1
+      }
+    ],
+    "response": "definitely let me go ahead and see if that's listed here ok so they do accept credit cards at this location"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120465,
+        "doc_id": 10
+      }
+    ],
+    "response": "let me check that ok yeah so they do take reservations in advance"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120462,
+        "doc_id": 9
+      }
+    ],
+    "response": "yes you can"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100120,
+        "doc_id": 3
+      }
+    ],
+    "response": "sure let me go ahead and see if that's listed anywhere. all right so it says that they accept all major credit cards here so you should be good with master card"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120289,
+        "doc_id": 15
+      }
+    ],
+    "response": "you know looking at this location they do not have outdoor seating i'm sorry"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110168,
+        "doc_id": 6
+      }
+    ],
+    "response": "yeah let me go and check if they have that listed anywhere. ok so they do have baggage storage at this location but do specify that there may be an additional charge"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120050,
+        "doc_id": 19
+      }
+    ],
+    "response": "let me see that ok so this location does accept apple pay"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120409,
+        "doc_id": 3
+      }
+    ],
+    "response": "looking at their site it does look like they do yes"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120349,
+        "doc_id": 4
+      }
+    ],
+    "response": "sure let me go ahead and see if that's listed anywhere. all right so it's saying they don't accept google pay at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110022,
+        "doc_id": 4
+      }
+    ],
+    "response": "yeah let me check into that for you. it looks like wi-fi is free at chateau tivoli"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110070,
+        "doc_id": 21
+      }
+    ],
+    "response": "let me check for you sir. so there's no charge for wi-fi at this place and it's available in the guest rooms"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120496,
+        "doc_id": 13
+      }
+    ],
+    "response": "i can check on that for you it looks like yeah it's a great place for kids"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120045,
+        "doc_id": 1
+      }
+    ],
+    "response": "sure let me check here okay it says that they don't take reservations no"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120161,
+        "doc_id": 18
+      }
+    ],
+    "response": "ok let me check that for you all right so it does say that it is wheelchair accessible"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110044,
+        "doc_id": 7
+      }
+    ],
+    "response": "yeah ok let me go ahead and search that for you. all right it does say that pets are allowed on request but there may be an additional charge if you do bring them"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110090,
+        "doc_id": 7
+      }
+    ],
+    "response": "ok let me see if that's listed here perfect so it does say that they offer luggage storage and it's listed under baggage storage at their front desk"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110156,
+        "doc_id": 23
+      }
+    ],
+    "response": "yeah let me check that all right so it lists their check-in time at four p. m. here"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120201,
+        "doc_id": 11
+      }
+    ],
+    "response": "so they serve beer and wine only"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120423,
+        "doc_id": 10
+      }
+    ],
+    "response": "yeah you're just in luck they do have vegan options there"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100107,
+        "doc_id": 2
+      }
+    ],
+    "response": "yeah let me see here. ok it says that this location does offer military discounts"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100045,
+        "doc_id": 1
+      }
+    ],
+    "response": "i can certainly check for you sir. so i'm seeing street parking is available and a private lot"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100173,
+        "doc_id": 1
+      }
+    ],
+    "response": "yeah let me go ahead and see if that's listed here. all right so it is definitely good for kids here so you're fine to bring any smaller ones"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110069,
+        "doc_id": 10
+      }
+    ],
+    "response": "yeah let me search that for you. ok so this location does speak french and they actually have bunch of other options danish english spanish italian chinese and japanese here as well"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120370,
+        "doc_id": 14
+      }
+    ],
+    "response": "yeah let me check that for you. ok so it says that it is wheelchair accessible yep"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110059,
+        "doc_id": 9
+      }
+    ],
+    "response": "sure let me go and see there. all right so they do have daily house keeping at this location"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120127,
+        "doc_id": 5
+      }
+    ],
+    "response": "that's a great question let me see what it says on their site. as far as delivery is concerned no they do not"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100189,
+        "doc_id": 2
+      }
+    ],
+    "response": "they do it's it's a great place for kids that's for sure"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120407,
+        "doc_id": 13
+      }
+    ],
+    "response": "let me check for you yes they do allow bike parking there"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110173,
+        "doc_id": 11
+      }
+    ],
+    "response": "yeah let me check that four you. all right it lists here that they only have non smoking rooms"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120108,
+        "doc_id": 15
+      }
+    ],
+    "response": "sure let me see if they have that listed anywhere. all right so they do not need a reservation here so you can just go ahead and chill out"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100041,
+        "doc_id": 0
+      }
+    ],
+    "response": "sure let me go and check that for you. ok unfortunately it says that dogs are not allowed at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120023,
+        "doc_id": 4
+      }
+    ],
+    "response": "let me check for that for you they do not serve alcohol"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100074,
+        "doc_id": 0
+      }
+    ],
+    "response": "they do not"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120196,
+        "doc_id": 10
+      }
+    ],
+    "response": "yeah let me go ahead and see if that's listed here ok so they do not have outdoor seating at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100115,
+        "doc_id": 1
+      }
+    ],
+    "response": "yeah let me search that for you. all right so this location has street parking but also has it's own private lot there"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100181,
+        "doc_id": 2
+      }
+    ],
+    "response": "let me check that for you all right so it says that dogs are not allowed at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120140,
+        "doc_id": 13
+      }
+    ],
+    "response": "they do actually they have bike parking available"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110026,
+        "doc_id": 11
+      }
+    ],
+    "response": "yeah let me go ahead and see if that here all right it says that they have both an onsite restaurant as well as an onsite bar"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110137,
+        "doc_id": 0
+      }
+    ],
+    "response": "they do yes"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120088,
+        "doc_id": 0
+      }
+    ],
+    "response": "no they do not"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110009,
+        "doc_id": 9
+      }
+    ],
+    "response": "let me go and check that for you ok so it does state that they serve a continental breakfast daily at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110204,
+        "doc_id": 6
+      }
+    ],
+    "response": "great question looking at this establishment they do not have a gym"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120361,
+        "doc_id": 13
+      }
+    ],
+    "response": "they do"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100087,
+        "doc_id": 0
+      }
+    ],
+    "response": "they do allow dogs at this park yeah"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120130,
+        "doc_id": 0
+      }
+    ],
+    "response": "let me check on that it looks like dogs are not allowed here i'm sorry"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120407,
+        "doc_id": 1
+      }
+    ],
+    "response": "when looking at their site it looks like they do not"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110111,
+        "doc_id": 2
+      }
+    ],
+    "response": "i'm showing that they offer free wi-fi for guests"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120519,
+        "doc_id": 18
+      }
+    ],
+    "response": "yeah let me go ahead and search that. all right so it's listed here as casual and classy"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120085,
+        "doc_id": 13
+      }
+    ],
+    "response": "i'm showing that they are"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100131,
+        "doc_id": 6
+      }
+    ],
+    "response": "sure let me check that. ok so it says that this location does accept credit card"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110175,
+        "doc_id": 21
+      }
+    ],
+    "response": "that's a great question sir let me check into that for you. yeah they have two restaurants and bars on site"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120356,
+        "doc_id": 2
+      }
+    ],
+    "response": "that's a great question uhhh looking at their site it looks like they do offer delivery yes"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120006,
+        "doc_id": 0
+      }
+    ],
+    "response": "yeah let me check if this restaurant does all right so it says that no dogs are actually allowed here"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120385,
+        "doc_id": 13
+      }
+    ],
+    "response": "absolutely sir one moment let me see. as far as alcohol they serve beer and wine only"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110120,
+        "doc_id": 6
+      }
+    ],
+    "response": "yeah let me see if they put that anywhere. all right so they do speak dutch at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100147,
+        "doc_id": 3
+      }
+    ],
+    "response": "ok sure let me go and check that for you. ok so it says that dogs are not allowed here"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110037,
+        "doc_id": 12
+      }
+    ],
+    "response": "ok let me go ahead and see if that's listed anywhere ok so this location does have an elevator"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120449,
+        "doc_id": 9
+      }
+    ],
+    "response": "yeah let me check that for you yeah so they do have vegetarian options at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120127,
+        "doc_id": 4
+      }
+    ],
+    "response": "yeah it's a great place for kids"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100150,
+        "doc_id": 7
+      }
+    ],
+    "response": "let me check that for you. ok it says that they offer valet street and they have a private lot for parking"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110086,
+        "doc_id": 20
+      }
+    ],
+    "response": "yeah let me go ahead and see if that's listed anywhere. ok so it does list that the hotel accepts master card"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120325,
+        "doc_id": 0
+      }
+    ],
+    "response": "sure it looks like they do take reservations"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120437,
+        "doc_id": 11
+      }
+    ],
+    "response": "they certainly do"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110141,
+        "doc_id": 13
+      }
+    ],
+    "response": "there isn't but they do offer room service"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100055,
+        "doc_id": 11
+      }
+    ],
+    "response": "yeah let me go and see if it's listed anywhere. so they do have parking there they have both street parking as well as their own garage"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100147,
+        "doc_id": 3
+      }
+    ],
+    "response": "let me check on that for you it does appear that they do not allow dogs at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120002,
+        "doc_id": 5
+      }
+    ],
+    "response": "let me check for you sir that's a good question you know what they do"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120262,
+        "doc_id": 9
+      }
+    ],
+    "response": "sure let me check if they do all right so they do take reservations at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120388,
+        "doc_id": 16
+      }
+    ],
+    "response": "yeah let me see ok so it says that it is a good place for groups"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110187,
+        "doc_id": 3
+      }
+    ],
+    "response": "yeah let me check that for you. all right it says that the tilden hotel does offer daily housekeeping there"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120308,
+        "doc_id": 12
+      }
+    ],
+    "response": "actually i am showing they do have a happy hour special yes"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120425,
+        "doc_id": 2
+      }
+    ],
+    "response": "that's a great question looking at the restaurant site i see that they accept all the major credit cards"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120087,
+        "doc_id": 12
+      }
+    ],
+    "response": "sure let me check that for you. ok so here it's stating that they do not accept google pay"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100065,
+        "doc_id": 1
+      }
+    ],
+    "response": "let me check that ok it says that they do not have wi-fi there"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110059,
+        "doc_id": 9
+      }
+    ],
+    "response": "sure i'd be happy to check. and it looks like harbor court does offer daily housekeeping services"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120027,
+        "doc_id": 8
+      }
+    ],
+    "response": "that's a great question let me look into that for you they do seem to offer take out yes"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120062,
+        "doc_id": 14
+      }
+    ],
+    "response": "sure let me check that for you. all right so it lists here that they only have street parking available"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110048,
+        "doc_id": 1
+      }
+    ],
+    "response": "let me check for you and it looks like rooms at the four seasons hotel are air conditioned yes"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120332,
+        "doc_id": 10
+      }
+    ],
+    "response": "so they actually don't require one but i can still book a table for you"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110020,
+        "doc_id": 16
+      }
+    ],
+    "response": "sure let me  yeah of course let me check that information. all right so it does list that the front desk is open twenty four hours at this location"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120485,
+        "doc_id": 12
+      }
+    ],
+    "response": "no problem sir right now i'm looking at this restaurant and they do not accept apple pay"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120256,
+        "doc_id": 18
+      }
+    ],
+    "response": "sure let me just see here ok so it says uhhh no kids there"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "hotel",
+        "entity_id": 110055,
+        "doc_id": 12
+      }
+    ],
+    "response": "yeah let me see if that's listed anywhere ok they do say that they have a shared kitchen available for all guests"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100158,
+        "doc_id": 1
+      }
+    ],
+    "response": "yeah let me do that. all right it's saying that the s. f. citadel does not offer free wi-fi"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "restaurant",
+        "entity_id": 120274,
+        "doc_id": 16
+      }
+    ],
+    "response": "sure let me check that for you ok so this location does not have a t. v. there"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": true,
+    "source": "sf_spoken",
+    "knowledge": [
+      {
+        "domain": "attraction",
+        "entity_id": 100057,
+        "doc_id": 4
+      }
+    ],
+    "response": "definitely i am showing this location does have bicycle parking yes"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  },
+  {
+    "target": false,
+    "source": "sf_spoken"
+  }
+]

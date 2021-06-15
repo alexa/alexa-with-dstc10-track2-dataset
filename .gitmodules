@@ -1,0 +1,3 @@
+[submodule "task1/baseline/trippy"]
+	path = task1/baseline/trippy
+	url = https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public.git
