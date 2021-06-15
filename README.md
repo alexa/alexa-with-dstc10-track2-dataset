@@ -35,13 +35,13 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
 
 ## Contact
 
-### Join the DSTC mailing list to get the latest updates about DSTC9
+### Join the DSTC mailing list to get the latest updates about DSTC10
 * To join the mailing list: visit https://groups.google.com/a/dstc.community/forum/#!forum/list/join
 
 * To post a message: send your message to list@dstc.community
 
 * To leave the mailing list: visit https://groups.google.com/a/dstc.community/forum/#!forum/list/unsubscribe
 
-### For specific enquiries about DSTC9 Track1
+### For specific enquiries about DSTC10 Track2
 
 Please feel free to contact: seokhwk (at) amazon (dot) com
