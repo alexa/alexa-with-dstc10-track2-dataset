@@ -16,7 +16,7 @@ krippendorff==0.4.0
 mosestokenizer==1.1.0
 nltk==3.5
 openfile==0.0.7
-Pillow==8.1.0
+Pillow==8.2.0
 protobuf==3.14.0
 pyrsistent==0.17.3
 python-dateutil==2.8.1
