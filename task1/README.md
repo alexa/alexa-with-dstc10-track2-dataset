@@ -52,9 +52,11 @@ Data and system output format details can be found from [data/README.md](data/RE
 ## Rules
 
 * Participation is welcome from any team (academic, corporate, non profit, government).
+* Each team can participate in either or both sub-tracks by submitting up to 5 entries for each track.
 * The identity of participants will NOT be published or made public. In written results, teams will be identified as team IDs (e.g. team1, team2, etc). The organizers will verbally indicate the identities of all teams at the workshop chosen for communicating results.
 * Participants may identify their own team label (e.g. team5), in publications or presentations, if they desire, but may not identify the identities of other teams.
 * Participants are allowed to use any external datasets, resources or pre-trained models.
+* Participants are NOT allowed to do any manual examination or modification of the test data.
 * All the submitted system outputs with the evaluation results will be released to public after the evaluation period.
 
 ## Contact
