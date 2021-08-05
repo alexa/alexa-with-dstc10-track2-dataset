@@ -46,7 +46,7 @@ Found no errors, output file is valid
 
 * Evaluate the output.
 ``` shell
-$ python3 scripts/scores.py --dataset val --dataroot data --outfile baseline/DSTC10_DST/DST_preds.json --scorefile baseline.val.score.json
+$ python3 scripts/scores.py --dataset val --dataroot data --outfile baseline/DSTC10_DST/DST_preds.json --scorefile baseline.val.score.json --K 5
 ```
 
 * Print out the scores.

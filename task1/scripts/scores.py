@@ -70,7 +70,7 @@ class Metric:
 
         return result
                     
-    def update(self, ref_obj, pred_obj):
+    def update(self, ref_obj, pred_obj, K=None):
         joint_goal_flag = True
         
         for key1, key2, key3 in slot_keys:
@@ -101,6 +101,7 @@ class Metric:
                 joint_goal_flag = False                
             else:
                 self._slot_none_tn += 1.0
+                pred_val = pred_val[:K]
                 
                 matched = False
                 for r in ref_val:
@@ -185,6 +186,8 @@ def main(argv):
                         help='File containing output JSON')
     parser.add_argument('--scorefile',dest='scorefile',action='store',metavar='JSON_FILE',required=True,
                         help='File containing scores')
+    parser.add_argument('--K', dest='K',action='store',metavar='NUMBER',required=True, type=int, 
+                        help='the maximal length of predicted value corresponding to each slot')
 
     args = parser.parse_args()
 
@@ -196,7 +199,7 @@ def main(argv):
     metric = Metric()
 
     for (instance, ref), pred in zip(data, output):
-        metric.update(ref, pred)
+        metric.update(ref, pred, args.K)
         
     scores = metric.scores()
 
