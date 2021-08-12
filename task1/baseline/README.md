@@ -53,18 +53,18 @@ $ python3 scripts/scores.py --dataset val --dataroot data --outfile baseline/DST
 ``` shell
 $ cat baseline.val.score.json | jq
 {
-  "joint_goal_accuracy": 0.004273504273504274,
+  "joint_goal_accuracy": 0.005341880341880342,
   "slot": {
-    "accuracy": 0.7207799145299145,
+    "accuracy": 0.7056342780026991,
     "value_prediction": {
-      "prec": 0.5977115326708823,
-      "rec": 0.3378148400272294,
-      "f1": 0.43166249864086115
+      "prec": 0.564648419500507,
+      "rec": 0.299330695197616,
+      "f1": 0.39125159642401036
     },
     "none_prediction": {
-      "prec": 0.7473212546269238,
-      "rec": 0.9788211278387343,
-      "f1": 0.8475475033141847
+      "prec": 0.7434883885085057,
+      "rec": 0.9609524678405255,
+      "f1": 0.8383476599808978
     }
   }
 }
