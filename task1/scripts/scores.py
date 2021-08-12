@@ -13,14 +13,13 @@ slot_keys = [
     ("restaurant", "semi", "name"),
     ("restaurant", "semi", "area"),
     ("hotel", "book", "people"),
+    ("hotel", "book", "rooms"),
     ("hotel", "book", "day"),
     ("hotel", "book", "stay"),
     ("hotel", "semi", "name"),
     ("hotel", "semi", "area"),
-    ("hotel", "semi", "parking"),
     ("hotel", "semi", "pricerange"),
     ("hotel", "semi", "stars"),
-    ("hotel", "semi", "internet"),
     ("hotel", "semi", "type"),
     ("attraction", "semi", "type"),
     ("attraction", "semi", "name"),
@@ -39,17 +38,16 @@ class Metric:
         self._joint_goal_matched = 0.0
 
         self._total_num_slots = 0.0
-        self._slot_matched = 0.0
+        self._num_slots_matched = 0.0
 
-        self._slot_value_tp = 0.0
-        self._slot_value_fp = 0.0
-        self._slot_value_tn = 0.0
-        self._slot_value_fn = 0.0
+        self._ref_slots_with_values = 0.0
+        self._ref_slots_with_none = 0.0
 
-        self._slot_none_tp = 0.0
-        self._slot_none_fp = 0.0
-        self._slot_none_tn = 0.0
-        self._slot_none_fn = 0.0
+        self._pred_slots_with_values = 0.0
+        self._pred_slots_with_none = 0.0
+
+        self._value_match_score = 0.0
+        self._none_match_score = 0.0
 
     def _normalize_value(self, value):
         normalized = value.lower()
@@ -77,42 +75,53 @@ class Metric:
             self._total_num_slots += 1
             
             if key1 in ref_obj and key2 in ref_obj[key1] and key3 in ref_obj[key1][key2]:
-                ref_val = ref_obj[key1][key2][key3]
+                ref_val = list(set(ref_obj[key1][key2][key3]))
             else:
                 ref_val = None
 
             if key1 in pred_obj and key2 in pred_obj[key1] and key3 in pred_obj[key1][key2]:
-                pred_val = pred_obj[key1][key2][key3]
+                pred_val = list(set(pred_obj[key1][key2][key3]))
             else:
                 pred_val = None
 
             if ref_val is None and pred_val is None:
-                self._slot_none_tp += 1.0
-                self._slot_value_tn += 1.0
-                
-                self._slot_matched += 1.0
+                self._ref_slots_with_none += 1
+                self._pred_slots_with_none += 1
+
+                self._none_match_score += 1
+                self._num_slots_matched += 1
             elif ref_val is None and pred_val is not None:
-                self._slot_none_fn += 1.0
-                self._slot_value_fp += 1.0
+                self._ref_slots_with_none += 1
+                self._pred_slots_with_values += 1
+                
                 joint_goal_flag = False
             elif ref_val is not None and pred_val is None:
-                self._slot_none_fp += 1.0
-                self._slot_value_fn += 1.0
+                self._ref_slots_with_values += 1
+                self._pred_slots_with_none += 1
+                
                 joint_goal_flag = False                
             else:
-                self._slot_none_tn += 1.0
+                self._ref_slots_with_values += 1
+                self._pred_slots_with_values += 1
                 
-                matched = False
+                num_matched_values = 0.0
                 for r in ref_val:
                     for p in pred_val:
                         if self._match_value(r, p):
-                            matched = True
+                            num_matched_values += 1
 
-                if matched is True:
-                    self._slot_value_tp += 1.0
-                    self._slot_matched += 1.0
+                if num_matched_values > 0.0:
+                    prec_values = num_matched_values/len(pred_val)
+                    rec_values = num_matched_values/len(ref_val)
+                    f1_values = 2*prec_values*rec_values/(prec_values+rec_values)
                 else:
-                    self._slot_value_fp += 1.0
+                    f1_values = 0.0
+
+                self._value_match_score += f1_values
+                
+                if f1_values == 1.0:
+                    self._num_slots_matched += 1
+                else:
                     joint_goal_flag = False
 
         if joint_goal_flag is True:
@@ -124,15 +133,15 @@ class Metric:
     def scores(self):
         jga = self._joint_goal_matched / self._total_num_instances
 
-        slot_accuracy = self._slot_matched / self._total_num_slots
-        
-        if (self._slot_value_tp + self._slot_value_fp) > 0:
-            slot_value_p = self._slot_value_tp / (self._slot_value_tp + self._slot_value_fp)
+        slot_accuracy = self._num_slots_matched / self._total_num_slots
+
+        if self._pred_slots_with_values > 0:
+            slot_value_p = self._value_match_score / self._pred_slots_with_values
         else:
             slot_value_p = 0.0
-            
-        if (self._slot_value_tp + self._slot_value_fn) > 0:
-            slot_value_r = self._slot_value_tp / (self._slot_value_tp + self._slot_value_fn)
+
+        if self._ref_slots_with_values > 0:
+            slot_value_r = self._value_match_score / self._ref_slots_with_values
         else:
             slot_value_r = 0.0
 
@@ -141,13 +150,13 @@ class Metric:
         else:
             slot_value_f = 0.0
 
-        if (self._slot_none_tp + self._slot_none_fp) > 0:
-            slot_none_p = self._slot_none_tp / (self._slot_none_tp + self._slot_none_fp)
+        if self._pred_slots_with_none > 0:
+            slot_none_p = self._none_match_score / self._pred_slots_with_none
         else:
             slot_none_p = 0.0
 
-        if (self._slot_none_tp + self._slot_none_fn) > 0:
-            slot_none_r = self._slot_none_tp / (self._slot_none_tp + self._slot_none_fn)
+        if self._ref_slots_with_none > 0:
+            slot_none_r = self._none_match_score / self._ref_slots_with_none
         else:
             slot_none_r = 0.0
 
