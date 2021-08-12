@@ -17,6 +17,12 @@ def create_examples_inference(input_file, acts_file, set_type, slot_list,
     """Read a DST json file into a list of DSTExample."""
     if not for_sys_utt:
         sys_inform_dict = load_acts(acts_file)
+        # load_acts() automatically adds .json to the dialog_id
+        # We remove it here
+        sys_inform_dict = {
+            (key[0].replace(".json", ""), key[1], key[2]): value
+            for key, value in sys_inform_dict.items()
+        }
     else:
         sys_inform_dict = {}
 
