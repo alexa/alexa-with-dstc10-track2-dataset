@@ -11,6 +11,10 @@ For both tasks, participants will develop models using any existing public data 
 **Organizers:** 
 Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthik Gopalakrishnan, Dilek Hakkani-Tur
 
+## News
+* August 12, 2020 - Patched data/code released for task 1. Please find the details from [release notes](https://github.com/alexa/alexa-with-dstc10-track2-dataset/blob/main/release-notes.md#2021-08-10) and  **update your local branch**.
+
+
 ## Important Links
 * [Track Proposal](https://drive.google.com/file/d/1JMK6EdD_QY2bR49wHhCaiFLPnGj-9Ztd/view)
 * [Challenge Registration](https://forms.gle/Qigb3N3hGqpEgsuW8)
