@@ -1,6 +1,6 @@
 # Release Notes
 
-## 2021-08-10
+## 2021-08-12
 
 * Fixed a data loading bug in the [task 1 baseline](task1/baseline/data_processors.py)
 * Updated the [task 1 evaluation script](task1/scripts/scores.py) with the partial scores for multi-value slots
