@@ -50,12 +50,6 @@
                                     "type": "string"
                                 }
                             },
-                            "parking": {
-                                "type": "array",
-                                "items": {
-                                    "type": "string"
-                                }
-                            },
                             "pricerange": {
                                 "type": "array",
                                 "items": {
@@ -63,12 +57,6 @@
                                 }
                             },
                             "stars": {
-                                "type": "array",
-                                "items": {
-                                    "type": "string"
-                                }
-                            },
-                            "internet": {
                                 "type": "array",
                                 "items": {
                                     "type": "string"
@@ -86,6 +74,12 @@
                         "type": "object",
                         "properties": {
                             "people": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            },
+                            "rooms": {
                                 "type": "array",
                                 "items": {
                                     "type": "string"

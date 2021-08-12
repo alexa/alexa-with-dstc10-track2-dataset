@@ -56,7 +56,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -72,9 +72,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -188,9 +185,6 @@
         "stars": [
           "2"
         ],
-        "internet": [
-          "yes"
-        ],
         "type": [
           "Bed and Breakfast"
         ]
@@ -244,7 +238,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -258,9 +252,6 @@
       "semi": {
         "name": [
           "Amsterdam Hostel"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "1"
@@ -458,7 +449,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -579,7 +570,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -778,7 +769,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -797,9 +788,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -836,7 +824,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -898,7 +886,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -1004,7 +992,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -1095,7 +1083,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -1126,7 +1114,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -1233,14 +1221,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -1375,7 +1363,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -1391,9 +1379,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "5"
         ]
       }
     }
@@ -1401,7 +1386,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -1465,9 +1450,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     },
@@ -1546,9 +1528,6 @@
         "pricerange": [
           "expensive"
         ],
-        "stars": [
-          "2"
-        ],
         "type": [
           "Bed and Breakfast"
         ]
@@ -1558,7 +1537,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -1607,7 +1586,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -1649,7 +1628,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -1686,9 +1665,6 @@
         ],
         "area": [
           "Pacific Heights"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "3"
@@ -1940,9 +1916,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ]
       }
     }
@@ -2009,7 +1982,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2052,7 +2025,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2071,9 +2044,6 @@
         ],
         "pricerange": [
           "cheap"
-        ],
-        "stars": [
-          "2"
         ]
       }
     },
@@ -2129,7 +2099,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2145,9 +2115,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -2290,7 +2257,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2321,7 +2288,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2340,9 +2307,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -2378,7 +2342,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2505,7 +2469,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -2591,7 +2555,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -2646,7 +2610,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -2678,7 +2642,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2691,9 +2655,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -2797,7 +2758,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -2963,7 +2924,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -2979,9 +2940,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -3008,7 +2966,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -3233,7 +3191,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -3291,7 +3249,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -3432,7 +3390,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -3501,7 +3459,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -3517,9 +3475,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -3574,7 +3529,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -3632,7 +3587,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -3957,14 +3912,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -4087,7 +4042,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4145,7 +4100,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4240,7 +4195,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4254,14 +4209,8 @@
         "name": [
           "White Swan Inn"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -4299,7 +4248,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4536,7 +4485,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4552,9 +4501,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -4621,7 +4567,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -4693,7 +4639,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4735,7 +4681,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -4961,9 +4907,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -5018,9 +4961,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     },
@@ -5065,7 +5005,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5221,7 +5161,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5237,9 +5177,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -5285,9 +5222,6 @@
         ],
         "area": [
           "Pacific Heights"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "3"
@@ -5467,7 +5401,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -5526,7 +5460,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5542,9 +5476,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "5"
         ]
       }
     }
@@ -5697,7 +5628,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5729,7 +5660,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5745,9 +5676,6 @@
         ],
         "area": [
           "Tenderloin"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -5857,7 +5785,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5973,7 +5901,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -5989,9 +5917,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -6017,9 +5942,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -6058,7 +5980,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -6151,7 +6073,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -6167,9 +6089,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -6190,7 +6109,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -6203,9 +6122,6 @@
       "semi": {
         "name": [
           "Amsterdam Hostel"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "1"
@@ -6736,7 +6652,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -6816,9 +6732,6 @@
   {
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -6873,9 +6786,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     }
@@ -6974,7 +6884,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -6990,9 +6900,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -7119,7 +7026,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -7135,9 +7042,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -7211,14 +7115,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -7420,9 +7321,6 @@
         "pricerange": [
           "moderate"
         ],
-        "internet": [
-          "yes"
-        ],
         "type": [
           "Bed and Breakfast"
         ]
@@ -7589,7 +7487,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -7602,9 +7500,6 @@
       "semi": {
         "name": [
           "Laurel Inn, a Joie de Vivre Hotel"
-        ],
-        "area": [
-          "Pacific Heights"
         ],
         "pricerange": [
           "moderate"
@@ -7774,9 +7669,6 @@
         "area": [
           "Union Square"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "expensive"
         ],
@@ -7830,7 +7722,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -8039,7 +7931,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -8108,7 +8000,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -8158,7 +8050,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -8220,9 +8112,6 @@
         ],
         "area": [
           "Pacific Heights"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "3"
@@ -8426,9 +8315,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     }
@@ -8456,7 +8342,7 @@
           "Landmark"
         ],
         "name": [
-          "Pier 40"
+          "Pier 39"
         ],
         "area": [
           "Fisherman's Wharf"
@@ -8549,7 +8435,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -8605,7 +8491,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -8618,9 +8504,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -8985,7 +8868,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -9059,9 +8942,6 @@
         "name": [
           "Hilton San Francisco Union Square"
         ],
-        "area": [
-          "Union Square"
-        ],
         "pricerange": [
           "moderate"
         ],
@@ -9132,7 +9012,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -9148,9 +9028,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -9198,7 +9075,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -9412,7 +9289,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -9428,9 +9305,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -9549,9 +9423,6 @@
         "area": [
           "Union Square"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "expensive"
         ],
@@ -9604,7 +9475,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -9759,7 +9630,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -9817,7 +9688,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -9883,7 +9754,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -10016,14 +9887,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -10070,7 +9938,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -10185,7 +10053,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -10489,9 +10357,6 @@
   {
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -10514,7 +10379,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -10673,7 +10538,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -10722,7 +10587,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -10859,7 +10724,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -11013,7 +10878,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -11029,9 +10894,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -11071,7 +10933,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -11090,9 +10952,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -11239,7 +11098,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -11527,14 +11386,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -11613,7 +11469,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -11626,9 +11482,6 @@
       "semi": {
         "name": [
           "Hilton San Francisco Union Square"
-        ],
-        "area": [
-          "Union Square"
         ],
         "pricerange": [
           "moderate"
@@ -11713,7 +11566,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -11729,9 +11582,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -11762,7 +11612,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -11794,7 +11644,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -11930,7 +11780,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -11975,7 +11825,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12059,9 +11909,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -12135,7 +11982,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12171,14 +12018,11 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Today"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -12229,7 +12073,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -12245,9 +12089,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -12298,9 +12139,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -12359,14 +12197,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -12478,7 +12316,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12498,9 +12336,6 @@
         "pricerange": [
           "moderate"
         ],
-        "internet": [
-          "yes"
-        ],
         "type": [
           "Hotel"
         ]
@@ -12510,7 +12345,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -12594,7 +12429,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12666,9 +12501,6 @@
         "stars": [
           "2"
         ],
-        "internet": [
-          "yes"
-        ],
         "type": [
           "Bed and Breakfast"
         ]
@@ -12691,7 +12523,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -12750,7 +12582,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12773,7 +12605,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12912,7 +12744,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -12976,9 +12808,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     }
@@ -13086,7 +12915,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -13573,7 +13402,7 @@
           "Landmark"
         ],
         "name": [
-          "Pier 43"
+          "Pier 39"
         ],
         "area": [
           "Fisherman's Wharf"
@@ -13584,7 +13413,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -13603,9 +13432,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -13710,14 +13536,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -13752,14 +13575,14 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -13809,7 +13632,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -13825,9 +13648,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -13870,9 +13690,6 @@
         "area": [
           "Pacific Heights"
         ],
-        "parking": [
-          "dontcare"
-        ],
         "stars": [
           "3"
         ],
@@ -13911,14 +13728,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -14208,7 +14025,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -14227,9 +14044,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -14302,7 +14116,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -14386,7 +14200,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -14458,7 +14272,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -14604,7 +14418,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -14999,7 +14813,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -15124,7 +14938,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -15255,7 +15069,7 @@
           "Sunday"
         ],
         "time": [
-          "13:00"
+          "13:30"
         ]
       },
       "semi": {
@@ -15572,7 +15386,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -15629,9 +15443,6 @@
         "area": [
           "Tenderloin"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "moderate"
         ],
@@ -15644,7 +15455,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -15685,9 +15496,6 @@
       "semi": {
         "name": [
           "Hilton San Francisco Union Square"
-        ],
-        "area": [
-          "Union Square"
         ],
         "pricerange": [
           "moderate"
@@ -15730,7 +15538,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -15743,9 +15551,6 @@
       "semi": {
         "name": [
           "Chelsea Inn"
-        ],
-        "parking": [
-          "yes"
         ]
       }
     },
@@ -15779,7 +15584,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -15834,7 +15639,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -15889,7 +15694,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -15951,7 +15756,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -15964,9 +15769,6 @@
       "semi": {
         "name": [
           "Laurel Inn, a Joie de Vivre Hotel"
-        ],
-        "area": [
-          "Pacific Heights"
         ],
         "pricerange": [
           "moderate"
@@ -15983,7 +15785,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -16028,7 +15830,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -16041,9 +15843,6 @@
       "semi": {
         "name": [
           "Chelsea Inn"
-        ],
-        "parking": [
-          "yes"
         ]
       }
     },
@@ -16152,7 +15951,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -16171,9 +15970,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -16194,7 +15990,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -16210,9 +16006,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -16620,7 +16413,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -16675,7 +16468,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -16760,7 +16553,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -16809,7 +16602,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -17175,7 +16968,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -17191,9 +16984,6 @@
         ],
         "area": [
           "Tenderloin"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -17230,7 +17020,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -17288,7 +17078,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -17371,14 +17161,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -17540,7 +17327,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -17693,7 +17480,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -17709,9 +17496,6 @@
         ],
         "area": [
           "Tenderloin"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -17748,7 +17532,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -17762,14 +17546,8 @@
         "name": [
           "White Swan Inn"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -17816,14 +17594,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -17912,7 +17690,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -17925,9 +17703,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -17996,7 +17771,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18015,9 +17790,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -18068,7 +17840,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18084,9 +17856,6 @@
         ],
         "area": [
           "Tenderloin"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -18397,7 +18166,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18410,9 +18179,6 @@
       "semi": {
         "name": [
           "Laurel Inn, a Joie de Vivre Hotel"
-        ],
-        "area": [
-          "Pacific Heights"
         ],
         "pricerange": [
           "moderate"
@@ -18488,9 +18254,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -18599,7 +18362,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18612,9 +18375,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -18654,7 +18414,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18673,9 +18433,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -18708,14 +18465,11 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -18804,7 +18558,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18817,9 +18571,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -18887,7 +18638,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -18979,14 +18730,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -19077,7 +18828,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -19218,9 +18969,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     }
@@ -19241,7 +18989,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -19257,9 +19005,6 @@
         ],
         "area": [
           "Tenderloin"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -19400,14 +19145,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -19475,9 +19217,6 @@
         "pricerange": [
           "expensive"
         ],
-        "stars": [
-          "2"
-        ],
         "type": [
           "Bed and Breakfast"
         ]
@@ -19518,7 +19257,7 @@
           "Landmark"
         ],
         "name": [
-          "Pier 42"
+          "Pier 39"
         ],
         "area": [
           "Fisherman's Wharf"
@@ -19662,7 +19401,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -19678,9 +19417,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "5"
         ]
       }
     }
@@ -19805,7 +19541,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -19818,9 +19554,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -19863,7 +19596,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -20001,7 +19734,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20020,9 +19753,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -20158,9 +19888,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     }
@@ -20194,7 +19921,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20242,7 +19969,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20294,7 +20021,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -20413,7 +20140,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20482,9 +20209,6 @@
         "area": [
           "Pacific Heights"
         ],
-        "parking": [
-          "dontcare"
-        ],
         "stars": [
           "3"
         ],
@@ -20523,7 +20247,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -20536,9 +20260,6 @@
       "semi": {
         "name": [
           "Chelsea Inn"
-        ],
-        "parking": [
-          "yes"
         ]
       }
     },
@@ -20572,7 +20293,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20669,7 +20390,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20725,7 +20446,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -20783,7 +20504,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -21108,7 +20829,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -21180,7 +20901,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -21196,9 +20917,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -21390,7 +21108,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -21447,7 +21165,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -21460,9 +21178,6 @@
       "semi": {
         "name": [
           "Amsterdam Hostel"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "1"
@@ -21569,7 +21284,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -21692,7 +21407,7 @@
           "Sunday"
         ],
         "time": [
-          "13:00"
+          "13:30"
         ]
       },
       "semi": {
@@ -21902,7 +21617,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -21918,9 +21633,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -22018,7 +21730,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -22049,7 +21761,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -22088,7 +21800,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -22219,7 +21931,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -22288,9 +22000,6 @@
         "name": [
           "Hotel Nikko San Francisco"
         ],
-        "area": [
-          "Union Square"
-        ],
         "stars": [
           "4"
         ],
@@ -22303,7 +22012,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -22335,7 +22044,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -22429,7 +22138,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -22579,9 +22288,6 @@
         "area": [
           "Pacific Heights"
         ],
-        "parking": [
-          "dontcare"
-        ],
         "stars": [
           "3"
         ],
@@ -22665,7 +22371,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -22791,7 +22497,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -22810,9 +22516,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -22872,9 +22575,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "4"
         ]
       }
     }
@@ -22910,7 +22610,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -22923,9 +22623,6 @@
       "semi": {
         "name": [
           "Amsterdam Hostel"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "1"
@@ -23070,7 +22767,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -23131,9 +22828,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -23253,7 +22947,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -23269,9 +22963,6 @@
         ],
         "area": [
           "Chinatown"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "pricerange": [
           "moderate"
@@ -23385,9 +23076,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -23473,14 +23161,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -23531,9 +23216,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -23655,7 +23337,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -23755,9 +23437,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -24140,7 +23819,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -24159,9 +23838,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -24285,7 +23961,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -24298,9 +23974,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -24506,7 +24179,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -24552,7 +24225,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -24565,9 +24238,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -24621,7 +24291,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -24637,9 +24307,6 @@
         ],
         "area": [
           "Nob Hill"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -24744,7 +24411,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -24758,14 +24425,8 @@
         "name": [
           "White Swan Inn"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -24837,7 +24498,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -24966,7 +24627,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25001,7 +24662,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25020,9 +24681,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -25091,7 +24749,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25110,9 +24768,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -25229,9 +24884,6 @@
         "area": [
           "Union Square"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "expensive"
         ],
@@ -25336,9 +24988,6 @@
         "area": [
           "Union Square"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "expensive"
         ],
@@ -25365,7 +25014,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -25397,7 +25046,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -25665,9 +25314,6 @@
         ],
         "pricerange": [
           "cheap"
-        ],
-        "stars": [
-          "2"
         ]
       }
     },
@@ -25716,7 +25362,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25730,9 +25376,6 @@
         "name": [
           "Hotel Nikko San Francisco"
         ],
-        "area": [
-          "Union Square"
-        ],
         "stars": [
           "4"
         ],
@@ -25745,7 +25388,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25811,7 +25454,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25905,7 +25548,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -25922,9 +25565,6 @@
         "area": [
           "Chinatown"
         ],
-        "parking": [
-          "dontcare"
-        ],
         "pricerange": [
           "moderate"
         ],
@@ -25937,10 +25577,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
-          "1"
-        ],
-        "stay": [
+        "rooms": [
           "1"
         ]
       },
@@ -26025,7 +25662,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -26115,7 +25752,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -26128,9 +25765,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -26168,7 +25802,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -26181,9 +25815,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -26267,7 +25898,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -26280,9 +25911,6 @@
       "semi": {
         "name": [
           "Hilton San Francisco Union Square"
-        ],
-        "area": [
-          "Union Square"
         ],
         "pricerange": [
           "moderate"
@@ -26386,7 +26014,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -26431,18 +26059,15 @@
   {
     "hotel": {
       "semi": {
-        "area": [
-          "Chinatown"
-        ],
-        "parking": [
+        "name": [
           "Orchard Garden Hotel",
           "SW Hotel"
         ],
+        "area": [
+          "Chinatown"
+        ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -26558,7 +26183,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -26619,9 +26244,6 @@
       "semi": {
         "name": [
           "Laurel Inn, a Joie de Vivre Hotel"
-        ],
-        "area": [
-          "Pacific Heights"
         ],
         "pricerange": [
           "moderate"
@@ -26783,7 +26405,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -26799,9 +26421,6 @@
         ],
         "area": [
           "Tenderloin"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -27091,7 +26710,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -27107,9 +26726,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "5"
         ]
       }
     }
@@ -27273,14 +26889,14 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
@@ -27508,9 +27124,6 @@
         "area": [
           "Union Square"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "expensive"
         ],
@@ -27690,7 +27303,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -27810,7 +27423,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -27842,7 +27455,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -27858,9 +27471,6 @@
         ],
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "expensive"
@@ -28070,7 +27680,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28179,7 +27789,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -28238,7 +27848,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28251,9 +27861,6 @@
       "semi": {
         "name": [
           "Hotel Nikko San Francisco"
-        ],
-        "area": [
-          "Union Square"
         ],
         "stars": [
           "4"
@@ -28321,12 +27928,12 @@
   {
     "hotel": {
       "semi": {
-        "area": [
-          "Chinatown"
-        ],
-        "parking": [
+        "name": [
           "Orchard Garden Hotel",
           "SW Hotel"
+        ],
+        "area": [
+          "Chinatown"
         ],
         "pricerange": [
           "moderate"
@@ -28395,7 +28002,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28408,9 +28015,6 @@
       "semi": {
         "area": [
           "Union Square"
-        ],
-        "parking": [
-          "yes"
         ],
         "pricerange": [
           "moderate"
@@ -28461,9 +28065,6 @@
     },
     "hotel": {
       "semi": {
-        "area": [
-          "Pacific Heights"
-        ],
         "stars": [
           "4"
         ]
@@ -28496,7 +28097,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -28538,7 +28139,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28590,7 +28191,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28684,7 +28285,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -28697,9 +28298,6 @@
       "semi": {
         "name": [
           "Amsterdam Hostel"
-        ],
-        "parking": [
-          "dontcare"
         ],
         "stars": [
           "1"
@@ -28745,7 +28343,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28893,7 +28491,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -28908,14 +28506,8 @@
         "name": [
           "White Swan Inn"
         ],
-        "parking": [
-          "yes"
-        ],
         "pricerange": [
           "moderate"
-        ],
-        "stars": [
-          "3"
         ],
         "type": [
           "Hotel"
@@ -29192,7 +28784,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -29281,7 +28873,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -29294,9 +28886,6 @@
       "semi": {
         "name": [
           "Hotel Nikko San Francisco"
-        ],
-        "area": [
-          "Union Square"
         ],
         "stars": [
           "4"
@@ -29450,7 +29039,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -29503,9 +29092,6 @@
         ],
         "pricerange": [
           "cheap"
-        ],
-        "stars": [
-          "2"
         ]
       }
     },
@@ -29551,7 +29137,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -29665,7 +29251,7 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -29771,14 +29357,11 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "$Tomorrow"
-        ],
-        "stay": [
-          "1"
         ]
       },
       "semi": {
@@ -29840,7 +29423,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -29859,9 +29442,6 @@
         ],
         "pricerange": [
           "moderate"
-        ],
-        "internet": [
-          "yes"
         ],
         "type": [
           "Hotel"
@@ -30039,7 +29619,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
@@ -30136,7 +29716,7 @@
     },
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "2"
         ],
         "day": [
@@ -30219,14 +29799,14 @@
   {
     "hotel": {
       "book": {
-        "people": [
+        "rooms": [
           "1"
         ],
         "day": [
           "Tuesday"
         ],
         "stay": [
-          "4"
+          "6"
         ]
       },
       "semi": {
