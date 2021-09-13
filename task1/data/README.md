@@ -10,6 +10,8 @@ We are releasing the validation data with the following files:
 * Validation set:
   * [logs.json](val/logs.json): validation instances
   * [labels.json](val/labels.json): ground-truths for validation instances
+* Test set:
+  * [logs.json](test/logs.json): test instances
 
 Participants will develop systems to take *logs.json* as an input and generates the outputs following the **same format** as *labels.json*.
 
