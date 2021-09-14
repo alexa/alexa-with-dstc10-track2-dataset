@@ -73,7 +73,7 @@ A: No, the human evaluation will be done only for selected systems according to 
 
 Q: Will I be allowed to manually annotate or preprocess the evaluation data?
 
-A: No, any manual task involved in processing the evaluation resources will be considered as a violation of the challenge policy. Please DO NOT touch the files in data_eval/ during the evaluation phase.
+A: No, any manual task involved in processing the evaluation resources will be considered as a violation of the challenge policy. Please DO NOT touch the files in `data/test` during the evaluation phase.
 
 ---
 
