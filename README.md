@@ -12,6 +12,7 @@ For both tasks, participants will develop models using any existing public data 
 Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthik Gopalakrishnan, Dilek Hakkani-Tur
 
 ## News
+* **September 27, 2021** - The objective evaluation results are now available: [Task 1 Results](https://docs.google.com/spreadsheets/d/1SyOGA_WbfWmcSExFzrmVqKpu5lJS-4qLrHTgzHAIziU/edit?usp=sharing), [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
 * **September 13, 2021** - The evaluation data is released for [Task 1](task1/data/test/logs.json) and [Task 2](task2/data/test/logs.json). Please find the participation details for [Task 1](task1/README.md#participation) and [Task 2](task2/README.md#participation).
 * **August 25, 2021** - [Frequently Asked Questions](FAQ.md) added.
 * **August 12, 2021** - Patched data/code released for task 1. Please find the details from [release notes](https://github.com/alexa/alexa-with-dstc10-track2-dataset/blob/main/release-notes.md#2021-08-10) and  **update your local branch**.
