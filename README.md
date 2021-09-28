@@ -24,8 +24,12 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
 * [Task 1 Details](task1/README.md)
 * [Task 2 Details](task2/README.md)
 * Submission Forms
-  * [Task 1 Submission Form](https://forms.gle/8JqvSNs6km6aCg7T7)
-  * [Task 2 Submission Form](https://forms.gle/YfC6SLXmaWyBZpza8)
+  * ~~Task 1 Submission Form~~
+  * ~~Task 2 Submission Form~~
+* Objective Evaluation Results
+  * [Task 1 Results](https://docs.google.com/spreadsheets/d/1SyOGA_WbfWmcSExFzrmVqKpu5lJS-4qLrHTgzHAIziU/edit?usp=sharing)
+  * [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
+
 
 ## Timeline
 * Validation data released: Jun 14, 2021
