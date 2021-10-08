@@ -12,6 +12,7 @@ For both tasks, participants will develop models using any existing public data 
 Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthik Gopalakrishnan, Dilek Hakkani-Tur
 
 ## News
+* **October 8, 2021** - The human evaluation scores for Task 2 are now available: [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
 * **September 27, 2021** - The objective evaluation results are now available: [Task 1 Results](https://docs.google.com/spreadsheets/d/1SyOGA_WbfWmcSExFzrmVqKpu5lJS-4qLrHTgzHAIziU/edit?usp=sharing), [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
 * **September 13, 2021** - The evaluation data is released for [Task 1](task1/data/test/logs.json) and [Task 2](task2/data/test/logs.json). Please find the participation details for [Task 1](task1/README.md#participation) and [Task 2](task2/README.md#participation).
 * **August 25, 2021** - [Frequently Asked Questions](FAQ.md) added.
@@ -26,7 +27,8 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
 * Objective Evaluation Results
   * [Task 1 Results](https://docs.google.com/spreadsheets/d/1SyOGA_WbfWmcSExFzrmVqKpu5lJS-4qLrHTgzHAIziU/edit?usp=sharing)
   * [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
-
+* Human Evaluation Results
+  * [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
 
 ## Timeline
 * Validation data released: Jun 14, 2021
