@@ -16,7 +16,9 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
 * [Challenge Registration](https://forms.gle/Qigb3N3hGqpEgsuW8)
 * [Data Formats](data/README.md)
 * [Baseline Details](baseline/README.md)
-* [Objective Evaluation Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
+* [Objective/Human Evaluation Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
+* [Submitted Entries](results/)
+* [Ground-truth Labels](data/test/labels.json)
 
 ## Sub-tasks
 
