@@ -38,6 +38,18 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
   * [Task 1 Labels](task1/data/test/labels.json)
   * [Task 2 Labels](task2/data/test/labels.json)  
 
+If you want to publish experimental results with this dataset or use the baseline models, please cite the following article:
+```
+@misc{kim2021how,
+      title={"How robust r u?": Evaluating Task-Oriented Dialogue Systems on Spoken Conversations}, 
+      author={Seokhwan Kim and Yang Liu and Di Jin and Alexandros Papangelis and Karthik Gopalakrishnan and Behnam Hedayatnia and Dilek Hakkani-Tur},
+      year={2021},
+      eprint={2109.13489},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ## Timeline
 * Validation data released: Jun 14, 2021
 * Test data released: Sep 13, 2021
