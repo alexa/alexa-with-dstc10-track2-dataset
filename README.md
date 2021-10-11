@@ -38,7 +38,7 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
   * [Task 1 Labels](task1/data/test/labels.json)
   * [Task 2 Labels](task2/data/test/labels.json)  
 
-If you want to publish experimental results with this dataset or use the baseline models, please cite the following article:
+If you want to publish experimental results with this dataset or use the baseline models, please cite [this article](https://arxiv.org/abs/2109.13489):
 ```
 @misc{kim2021how,
       title={"How robust r u?": Evaluating Task-Oriented Dialogue Systems on Spoken Conversations}, 
