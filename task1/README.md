@@ -14,6 +14,8 @@ Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthi
 * [Data Formats](data/README.md)
 * [Baseline Details](baseline/README.md)
 * [Evaluation Results](https://docs.google.com/spreadsheets/d/1SyOGA_WbfWmcSExFzrmVqKpu5lJS-4qLrHTgzHAIziU/edit?usp=sharing)
+* [Submitted Entries](results/)
+* [Ground-truth Labels](data/test/labels.json)
 
 ## Task
 
