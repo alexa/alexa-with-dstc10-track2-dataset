@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "Roberta",
+  "desc": "1. Using the CopyNet structure, splicing historical dialogue information to construct input data, and traverse classification;\n2. Update the slot value through the span extraction method. At the same time, this method can solve the problem that the entity slot value does not appear"
+}

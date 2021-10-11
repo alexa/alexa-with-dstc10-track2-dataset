@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "RoBERTa - large",
+    "desc": "Given a last utterance of a dialog session, the model classifies whether the given utterance corresponds to a knowledge seeking turn or not."
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "RoBERTa - large;SentenceTransformers",
+    "desc": "Rank by the similarity score between the last utterance and the snippet on sentence-transformers."
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "BART",
+    "desc": "We use BART-large given the context and the body of a knowledge snippet as an input to generate a response . Encoder's input is context and body, Decoder's input is response."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction, Value categorization",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "BERT-base",
+  "desc": "TripPy Baseline"
+}

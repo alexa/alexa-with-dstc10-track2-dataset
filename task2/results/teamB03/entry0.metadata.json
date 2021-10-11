@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "no",
+    "desc": "I use string searching to seek knowledge"
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "bert-uncased",
+    "desc": "Bert NSP"
+  },
+  "subtask3": {
+    "ensemble": "Yes, multiple model outputs were combined for the response generation",
+    "pretrained": "bert-uncased,gpt2",
+    "desc": "GPT2"
+  }
+}

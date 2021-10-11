@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "Baidu.Knover Classifier",
+    "desc": "Task #1 is based on Knover, only inputting dialog session to classify whether to seek knowledge. We randomly sample the ASR output each turn and thus we can gain #repeat_time*#val_sample+#DSTC9_sample samples, we intuitively assume that noises from disfluencies or barge-ins can be alleviated in this way, similar to ensemble or corruption of MLM?"
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "FAIR.Poly-Encoders, Baidu.Knover NSP",
+    "desc": "Task #2 is divided into two parts: \n1) poly-encoders coarse-grained screening: using contrastive learning to strengthen the alignment and uniformity between session-knowledge pairs, and get the top-500 knowledge for each session as part2 input;\n2) cross-encoder fine-grained screening: during we use multi-scale negative sampling to enable its discriminant ability; during inference, we use the last part and output top-5 knowledge candidates.\nIn this way, we can reduce time complexity dramatically and hardly hurting performance"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "Baidu.Knover Dialog Generation",
+    "desc": "input session + top-1_knowledge, generate response"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "bert-base-uncased",
+  "desc": "modified baseline with data augmentation and new class type (multi). Before fine-tuning, we post-trained bert-base-uncased with multiWOZ and dstc9 data with MLM task."
+}

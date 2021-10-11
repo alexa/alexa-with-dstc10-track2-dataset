@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "gpt2-base",
+    "desc": "we made new data that fit with new knowledge, with Retrieval-based method and generation method+ rule base."
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "roberta-base",
+    "desc": "for knowledge selection, we need to makes data that fit with new knowledge, also we apply new fine-grained negative sampling."
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "gpt2 base",
+    "desc": "post-training, style transfer."
+  }
+}

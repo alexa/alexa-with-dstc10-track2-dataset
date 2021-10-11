@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction, String searching",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "bert-uncased",
+  "desc": "trippy-public"
+}

@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "Roberta",
+    "desc": "Task 1: Baseline-inspired binary classifier: Roberta, fine-tuned on dstc9 data with added noise (random fillers) + keyword search to validate the prediction\n"
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "major vote between GPT2 and Roberta",
+    "desc": "The system is a voting  ensemble over system versions 1-4 for entity selection. For document selection we computed Kendall\u2019s concordance coefficient W. For the cases, when W < 0.6, we randomly  shuffled the documents ranking, otherwise the ranking was preserved. \n"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "No modeling",
+    "desc": "Task 3: answer from the question-answer pair is returned.\n"
+  }
+}

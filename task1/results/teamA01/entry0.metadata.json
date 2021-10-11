@@ -1,0 +1,6 @@
+{
+  "method": "Value generation",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "t5-3b",
+  "desc": "train data: multiwoz+valid.logs   prompt: area is <extra_id_0>"
+}

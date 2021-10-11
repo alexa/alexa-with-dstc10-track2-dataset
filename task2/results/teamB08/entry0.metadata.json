@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "roberta-large",
+    "desc": "Binary classification on the last three dialog turns. For the last turn each entry in the asr nbest list was shown to the model and highest score was used for classification.\nWe continued to pre-train the model on multiple spoken dialog datasets. The training data was normalised (lower cased, removed punctuation, etc.) to be more similar to the spoken test data.\nThe final model was fine-tuned on the dstc9 train, validation, test splits and the dstc10 validation split. The training data was filtered to remove annotation a few annotations errors / mismatches to the sf domain.\nIn addition, we generated additional training samples by appending the questions from the knowledge snippets in the San Francisco domain to new dialogs from multiwoz."
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "roberta-base, roberta-large",
+    "desc": "We separate the task into entity and document selection. For both subtasks, we fine-tune a model for relevance classification (similar to the baseline).\nFor the entity selection, the last 384 tokens of the utterances are given to the model and for the document selection only the last user turn.\nThe training data was normalised (lower cased, removed punctuation, etc.) to be more similar to the spoken test data.\nFor the entity selection we use roberta-base and for the document selection roberta-large.\nWe continued to pre-train the roberta-large on multiple spoken dialog datasets.\nThe final model was fine-tuned on the dstc9 train, validation, test splits and the dstc10 validation split.\nIn addition to the dstc10 data, the entity selection model was also trained on taskmaster.\n"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "bart-large",
+    "desc": "We train the model on the dstc10 validation data in addition to the dstc9 data and add a special style token so that the model learns to produce responses in spoken style.\nIn addition, we use a noisy channel model to do a reranking of the hypotheses after each timestep in beam search.\nIn this model we separate the generation model into a channel model p(knowledge | dialog context, response) and a (not knowledge grounded) response generation model p(response | dialog context).\nThe channel model is trained on the dstc data and the response generation model on multiple spoken dialog datasets.\n"
+  }
+}

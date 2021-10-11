@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "PLATO-2",
+    "desc": "Knover baseline"
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "PLATO-2",
+    "desc": "Knover baseline"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "PLATO-2",
+    "desc": "Knover baseline"      
+  }
+}

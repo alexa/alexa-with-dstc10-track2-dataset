@@ -1,0 +1,6 @@
+{
+  "method": "Value categorization",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "BERT-base-uncased",
+  "desc": "Slot attention based value categorization method + db correction"
+}

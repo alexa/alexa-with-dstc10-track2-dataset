@@ -1,0 +1,6 @@
+{
+  "method": "Value categorization, Value generation",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "PLATO-2, BERT Large",
+  "desc": "We use several generation models based on PLATO-2 and several matching models based on BERT Large and PLATO-2. We ensemble multiple results into the final results."
+}

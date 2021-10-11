@@ -1,0 +1,6 @@
+{
+  "method": "Value generation",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "BART-base",
+  "desc": "We used MinTL based on the pre-trained model (BART) and also augmented existing external training data. Additionally, we used diverse augmentation and post-processing methods."
+}

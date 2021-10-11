@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "bert-base-uncased / roberta-base",
+  "desc": "Trained the same model from submission 1 with 5 different seeds. We combine the results from each model by voting."
+}

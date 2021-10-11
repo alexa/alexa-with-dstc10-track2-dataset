@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "GPT-2",
+    "desc": "DSTC9 Baseline"
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "GPT-2",
+    "desc": "DSTC9 Baseline"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "GPT-2",
+    "desc": "DSTC9 Baseline"
+  }
+}

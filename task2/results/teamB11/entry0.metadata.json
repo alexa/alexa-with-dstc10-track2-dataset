@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "Yes, multiple model outputs were combined for the turn detection",
+    "pretrained": "Roberta",
+    "desc": "Translate spoken conversations into text-like ones."
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "Bert, Graph-based Model",
+    "desc": "Sentence encoding by bert. knowledge selection by graph-based model"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "Roberta",
+    "desc": "Generation by roberta-based model with auxiliary latent variable, knowledge copy and first-word-fixed beam search"
+  }
+}

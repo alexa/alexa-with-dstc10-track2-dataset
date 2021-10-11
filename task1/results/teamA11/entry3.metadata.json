@@ -1,0 +1,6 @@
+{
+  "method": "Value generation",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "PLATO-2, PLATO-XL, DeBERTa XLarge",
+  "desc": "We use PLATO to generate the dialogue state, and DeBERTa to rank multiple generated results. We ensemble the ranked results and the original results into the final results."
+}

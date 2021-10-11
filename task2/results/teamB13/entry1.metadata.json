@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "Yes, multiple model outputs were combined for the turn detection",
+    "pretrained": "gpt-2, bert-base-uncased",
+    "desc": "Fusion of models: gpt-2 baseline, bert-base-uncased, shallow-CNN"
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "bert-base-uncased",
+    "desc": "Poly Encoder model with poly_m=64 trained to predict knowledge from knowledge base by dialogue context"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "BART; DPR",
+    "desc": "BART trained as part of RAG models with pretrained DPR"
+  }
+}

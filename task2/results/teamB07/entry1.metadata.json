@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "GPT2",
+    "desc": "entity check, negative sampling, data augment based on back translation etc."
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "roberta-large",
+    "desc": "negative sampling"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "transformer",
+    "desc": "negative sampling"
+  }
+}

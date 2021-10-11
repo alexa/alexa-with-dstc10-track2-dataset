@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "GPT2",
+    "desc": "Fields adaption on dstc data and some other open source dialogs; Negative sampling based on knowledge similarity and different granularities; Data augment based on back translation; Extend recall based on knowledge similarity."
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "Roberta Large",
+    "desc": "The dialogue dataset pre-trained the model, the fine-tuning phase was divided into two modules, recall modules and sorting modules, both modules are dicclassification models, and the results obtained by the recall module were sorted after amplified recall"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "Transformer",
+    "desc": "Restructure the training data to fine-tune the response style transfer problem"
+  }
+}

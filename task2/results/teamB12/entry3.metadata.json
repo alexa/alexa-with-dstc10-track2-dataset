@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "Yes, multiple model outputs were combined for the turn detection",
+    "pretrained": "same with entry 3 but using different data.",
+    "desc": "same with entry 3 but using different data."
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "roberta",
+    "desc": "same with entry 3 but using different negative sampling, different data"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "gpt2",
+    "desc": "same as entry3"
+  }
+}

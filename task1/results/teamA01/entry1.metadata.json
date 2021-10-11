@@ -1,0 +1,6 @@
+{
+  "method": "Value generation",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "t5-3b",
+  "desc": "add db.json"
+}

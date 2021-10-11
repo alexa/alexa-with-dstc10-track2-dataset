@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "Roberta",
+    "desc": "Task 1: Baseline-inspired binary classifier: Roberta, fine-tuned on dstc9 data with added noise (random fillers) + keyword search to validate the predictions.\n"
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "gpt2",
+    "desc": "Task 2: combines entity retrieval (fuzzy search) with entity selection (GPT2 binary classifier, fine-tuned on dstc9), no noise added. Entity is selected among the retrieved entities, belonging to the predicted domain. For knowledge extraction, we extract key-phrases from the knowledge titles and treat them as relations. While extracting the key-phrases, we replace the entity names in case they are present with their corresponding domain. The final task of extraction is treated as a relation linking problem, where we link the user utterance to a relation extracted from the provided knowledge.\n\n"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "No modeling",
+    "desc": "Task 3: answer from the question-answer pair is returned.\n"
+  }
+}

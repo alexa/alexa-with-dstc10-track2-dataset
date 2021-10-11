@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction, Value categorization, Value generation",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "bert, gpt2, unilm",
+  "desc": "We utilize trippy, simpletod and unilm to make an ensemble and augment data with cocoaug. Also, we keep hotel-people and add hotel-rooms."
+}

@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "Yes, multiple model outputs were combined for the turn detection",
+    "pretrained": "BART",
+    "desc": "BART-ensemble (DSTC9 dataset)"
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "BERT",
+    "desc": "BERT with post-training method and multi-task learning with QA selection task"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "BART",
+    "desc": "BART with self-supervised data-augmentation method"
+  }
+}

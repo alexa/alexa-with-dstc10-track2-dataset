@@ -1,0 +1,6 @@
+{
+  "method": "Span extraction",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "TRIPPY-BASE / BERT(bert-base-uncased)",
+  "desc": "The WCN(Word Confusion Network) method was used to reduce ASR errors and to allow the model to extract slots and values more appropriately."
+}

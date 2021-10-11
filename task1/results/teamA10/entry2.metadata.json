@@ -1,0 +1,6 @@
+{
+  "method": "Value categorization",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "BERT-base-uncased",
+  "desc": "Slot attention based value categorization method"
+}

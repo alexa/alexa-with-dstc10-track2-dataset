@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "We use GPT-2 for Knowledge-seeking model and using BART for data argumentation model",
+    "desc": "Similar to the DSTC9 1st model, we measure score of all knowledge and db schema. After voting for knowledge seeking turn detection. In addition, our train data is augmentation with topicalChat ASR"
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "We use GPT-2 for Knowledge selection model and using BART for data argumentation model",
+    "desc": "we measure score of all knowledge. In addition, our train data is augmentation with topicalChat ASR"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "We use GPT-2 for generation model and using BART for data argumentation model",
+    "desc": "generation response with dialog and top-5 score knowledge"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "method": "Value generation",
+  "ensemble": "No, this entry came from a single model only",
+  "pretrained": "PLATO-2",
+  "desc": "We use PLATO-2 to generate a dialogue state based on the dialogue of the current turn and the previous dialogue state."
+}

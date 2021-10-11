@@ -1,0 +1,6 @@
+{
+  "method": "Value generation",
+  "ensemble": "Yes, multiple system outputs were combined into this entry",
+  "pretrained": "PLATO-2, PLATO-XL",
+  "desc": "We use PLATO to generate a dialogue state based on the dialogue of the current turn and the previous dialogue state. We ensemble multiple results into the final results."
+}

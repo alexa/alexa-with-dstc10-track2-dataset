@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "No, only a single model was used for the turn detection",
+    "pretrained": "gpt2",
+    "desc": "NGS, Entity check, data augment, extend recall."
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "roberta large, gpt2, bert",
+    "desc": "NGS, Entity check, data augment, extend recall."
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "transformer",
+    "desc": "NGS, Entity check, data augment, extend recall."
+  }
+}

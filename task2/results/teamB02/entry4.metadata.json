@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "Yes, multiple model outputs were combined for the turn detection",
+    "pretrained": "BART",
+    "desc": "same as submission 1."
+  },
+  "subtask2": {
+    "ensemble": "No, only a single model was used for the knowledge selection",
+    "pretrained": "BERT",
+    "desc": "spanbert_entity_span_pre_trained_dstc9_merged_aug20, checkpoint:6399"
+  },
+  "subtask3": {
+    "ensemble": "No, only a single model was used for the response generation",
+    "pretrained": "BART",
+    "desc": "same as submission 1."
+  }
+}

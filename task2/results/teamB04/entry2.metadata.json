@@ -1,0 +1,17 @@
+{
+  "subtask1": {
+    "ensemble": "Yes, multiple model outputs were combined for the turn detection",
+    "pretrained": "Roberta-Large",
+    "desc": "Referring to the paper \"Towards Generalized Models for Beyond Domain API Task-oriented Dialogue\" and doing some further optimizations."
+  },
+  "subtask2": {
+    "ensemble": "Yes, multiple model outputs were combined for the knowledge selection",
+    "pretrained": "Roberta-Large, ALBERT-Large, ELECTRA-Large",
+    "desc": "Referring to the paper \"Towards Generalized Models for Beyond Domain API Task-oriented Dialogue\" and doing some further optimizations."
+  },
+  "subtask3": {
+    "ensemble": "Yes, multiple model outputs were combined for the response generation",
+    "pretrained": "Unilm-Large, DialoGPT, GPT-2",
+    "desc": "Referring to the paper \"Towards Generalized Models for Beyond Domain API Task-oriented Dialogue\" and doing some further optimizations."
+  }
+}
