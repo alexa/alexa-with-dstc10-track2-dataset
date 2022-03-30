@@ -12,6 +12,7 @@ For both tasks, participants will develop models using any existing public data 
 Seokhwan Kim, Yang Liu, Di Jin, Alexandros Papangelis, Behnam Hedayatnia, Karthik Gopalakrishnan, Dilek Hakkani-Tur
 
 ## News
+* **March 30, 2022** - The post-challenge leaderboard for Task 2 is online [here](https://eval.ai/web/challenges/challenge-page/1663/overview).
 * **October 11, 2021** - The ground-truth labels/responses of the test data are released at [Task 1 Labels](task1/data/test/labels.json), [Task 2 Labels](task2/data/test/labels.json)  
 * **October 11, 2021** - All the submitted entries by the participants are released at [Task 1 Submissions](task1/results), [Task 2 Submissions](task2/results)
 * **October 8, 2021** - The human evaluation scores for Task 2 are now available: [Task 2 Results](https://docs.google.com/spreadsheets/d/19XIj4m9z7_-uSBP8slTEm113VLrWCL5vXwKCL8EFs2U/edit?usp=sharing)
