@@ -21,7 +21,7 @@ protobuf==3.18.3
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 regex==2020.11.13
-requests==2.25.1
+requests==2.31.0
 rouge==1.0.0
 rouge-score==0.0.4
 s3transfer==0.3.4
